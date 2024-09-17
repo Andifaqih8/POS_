@@ -2,11 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Profil Pengguna</title>
+    <title>Halaman Penjualan</title>
 </head>
 <body>
-    <h1>Profil Pengguna</h1>
-    <p>ID: {{ $id }}</p>
-    <p>Nama: {{ $name }}</p>
+    <h1>Transaksi Penjualan POS</h1>
 </body>
 </html>

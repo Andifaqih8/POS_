@@ -21,7 +21,7 @@ Route::prefix('category')->group(function () {
 });
 
 // Route untuk halaman User
-Route::get('/user/{id}/name/{name}', [UserController::class, 'profile']);
+//Route::get('/user/{id}/name/{name}', [UserController::class, 'profile']);
 
 // Route untuk halaman Penjualan
 Route::get('/sales', [SalesController::class, 'index']);

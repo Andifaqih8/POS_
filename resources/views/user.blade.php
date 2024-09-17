@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Profil Pengguna</title>
-</head>
+</head>.
 <body>
     <h1>Profil Pengguna</h1>
     <p>ID: {{ $id }}</p>
